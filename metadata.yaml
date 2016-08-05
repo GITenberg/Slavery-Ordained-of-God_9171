@@ -1,0 +1,29 @@
+_repo: Slavery-Ordained-of-God_9171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ross, F. A. (Frederick Augustus)
+    alias: Ross, Frederick Augustus
+    birthdate: 1796
+    deathdate: 1883
+    gutenberg_agent_id: '2988'
+    url: http://www.gutenberg.org/2009/agents/2988
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Augustus_Ross
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9171'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery and the church -- Presbyterian Church'
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+- !lcsh 'Slavery -- Justification'
+- !lcsh 'Slavery and the church -- United States'
+- GITenberg
+title: Slavery Ordained of God
+url: http://www.gutenberg.org/ebooks/9171
